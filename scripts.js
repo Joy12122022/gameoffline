@@ -1,172 +1,27 @@
 const serverUrl = "https://gameoffline.joynguyen.online";
 
-document.getElementById('link2048').href = `${serverUrl}/2048`;
-document.getElementById('link3dtetris').href = `${serverUrl}/3dtetris`;
-document.getElementById('linkAlienAttack').href = `${serverUrl}/alienattack`;
-document.getElementById('linkBalanceBall').href = `${serverUrl}/balanceball`;
-document.getElementById('linkBattleday').href = `${serverUrl}/battleday`;
-document.getElementById('linkBdot').href = `${serverUrl}/bdot`;
-document.getElementById('linkbirgly').href = `${serverUrl}/birgly`;
-document.getElementById('linkblackbats').href = `${serverUrl}/blackbats`;
-document.getElementById('linkbloxslider').href = `${serverUrl}/bloxslider`;
-document.getElementById('linkbottomtight').href = `${serverUrl}/bottomtight`;
-document.getElementById('linkbravebird').href = `${serverUrl}/bravebird`;
-document.getElementById('linkbrokenhorn').href = `${serverUrl}/brokenhorn`;
-document.getElementById('linkbubblecn').href = `${serverUrl}/bubblecn`;
-document.getElementById('linkbubblefish').href = `${serverUrl}/bubblefish`;
-document.getElementById('linkburningrubber').href = `${serverUrl}/burningrubber`;
-document.getElementById('linkcandyfusion').href = `${serverUrl}/candyfusion`;
-document.getElementById('linkcandypig').href = `${serverUrl}/candypig`;
-document.getElementById('linkcaptainroger').href = `${serverUrl}/captainroger`;
-document.getElementById('linkcaptainwar').href = `${serverUrl}/captainwar`;
-document.getElementById('linkcatonfire').href = `${serverUrl}/catonfire`;
-document.getElementById('linkcavejumper').href = `${serverUrl}/cavejumper`;
-document.getElementById('linkcboxes').href = `${serverUrl}/cboxes`;
-document.getElementById('linkcheeselab').href = `${serverUrl}/cheeselab`;
-document.getElementById('linkchipman').href = `${serverUrl}/chipman`;
-document.getElementById('linkchristmasballs').href = `${serverUrl}/christmasballs`;
-document.getElementById('linkcircleball').href = `${serverUrl}/circleball`;
-document.getElementById('linkcirclepong').href = `${serverUrl}/circlepong`;
-document.getElementById('linkcircletris').href = `${serverUrl}/circletris`;
-document.getElementById('linkcninjas').href = `${serverUrl}/cninjas`;
-document.getElementById('linkcowboyrun').href = `${serverUrl}/cowboyrun`;
-document.getElementById('linkcowboyshot').href = `${serverUrl}/cowboyshot`;
-document.getElementById('linkcraigenstone').href = `${serverUrl}/craigenstone`;
-document.getElementById('linkcreedyrabbit').href = `${serverUrl}/creedyrabbit`;
-document.getElementById('linkcrkarmax').href = `${serverUrl}/crkarmax`;
-document.getElementById('linkcubeninja').href = `${serverUrl}/cubeninja`;
-document.getElementById('linkdangermouse').href = `${serverUrl}/dangermouse`;
-document.getElementById('linkdangerous').href = `${serverUrl}/dangerous`;
-document.getElementById('linkdarkninja').href = `${serverUrl}/darkninja`;
-document.getElementById('linkdeathsoul').href = `${serverUrl}/deathsoul`;
-document.getElementById('linkdonteattrash').href = `${serverUrl}/donteattrash`;
-document.getElementById('linkdotgame').href = `${serverUrl}/dotgame`;
-document.getElementById('linkdronewars').href = `${serverUrl}/dronewars`;
-document.getElementById('linkdropcircle').href = `${serverUrl}/dropcircle`;
-document.getElementById('linkduckwater').href = `${serverUrl}/duckwater`;
-document.getElementById('linkelmore').href = `${serverUrl}/elmore`;
-document.getElementById('linkescape').href = `${serverUrl}/escape`;
-document.getElementById('linkevilrobot').href = `${serverUrl}/evilrobot`;
-document.getElementById('linkevilwyrm').href = `${serverUrl}/evilwyrm`;
-document.getElementById('linkfastgame').href = `${serverUrl}/fastgame`;
-document.getElementById('linkfirebrigade').href = `${serverUrl}/firebrigade`;
-document.getElementById('linkfishingfrenzy').href = `${serverUrl}/fishingfrenzy`;
-document.getElementById('linkfishshot').href = `${serverUrl}/fishshot`;
-document.getElementById('linkflapcatcopters').href = `${serverUrl}/flapcatcopters`;
-document.getElementById('linkflapcatxmas').href = `${serverUrl}/flapcatxmas`;
-document.getElementById('linkflappydog').href = `${serverUrl}/flappydog`;
-document.getElementById('linkflyingschool').href = `${serverUrl}/flyingschool`;
-document.getElementById('linkfoofoo').href = `${serverUrl}/foofoo`;
-document.getElementById('linkfoxfury').href = `${serverUrl}/foxfury`;
-document.getElementById('linkfreedomroad').href = `${serverUrl}/freedomroad`;
-document.getElementById('linkfrog').href = `${serverUrl}/frog`;
-document.getElementById('linkfullimmersion').href = `${serverUrl}/fullimmersion`;
-document.getElementById('linkfunnysoccer').href = `${serverUrl}/funnysoccer`;
-document.getElementById('linkgettwelve').href = `${serverUrl}/gettwelve`;
-document.getElementById('linkgoblinmachine').href = `${serverUrl}/goblinmachine`;
-document.getElementById('linkgofishing').href = `${serverUrl}/gofishing`;
-document.getElementById('linkgoingnuts').href = `${serverUrl}/goingnuts`;
-document.getElementById('linkgreedygnomes').href = `${serverUrl}/greedygnomes`;
-document.getElementById('linkgreenwings').href = `${serverUrl}/greenwings`;
-document.getElementById('linkgroovyski').href = `${serverUrl}/groovyski`;
-document.getElementById('linkgrubhub').href = `${serverUrl}/grubhub`;
-document.getElementById('linkgumballrace').href = `${serverUrl}/gumballrace`;
-document.getElementById('linkgunmach').href = `${serverUrl}/gunmach`;
-document.getElementById('linkhanselandgretel').href = `${serverUrl}/hanselandgretel`;
-document.getElementById('linkherojump').href = `${serverUrl}/herojump`;
-document.getElementById('linkhidden').href = `${serverUrl}/hidden`;
-document.getElementById('linkhungrybob').href = `${serverUrl}/hungrybob`;
-document.getElementById('linkhyperminer').href = `${serverUrl}/hyperminer`;
-document.getElementById('linkicecream').href = `${serverUrl}/icecream`;
-document.getElementById('linkisagame').href = `${serverUrl}/isagame`;
-document.getElementById('linkjellydoods').href = `${serverUrl}/jellydoods`;
-document.getElementById('linkjellyslice').href = `${serverUrl}/jellyslice`;
-document.getElementById('linkjomjom').href = `${serverUrl}/jomjom`;
-document.getElementById('linkjump2048').href = `${serverUrl}/jump2048`;
-document.getElementById('linkjumpkitty').href = `${serverUrl}/jumpkitty`;
-document.getElementById('linkjumpman').href = `${serverUrl}/jumpman`;
-document.getElementById('linkjumppydog').href = `${serverUrl}/jumppydog`;
-document.getElementById('linkjumppydragon').href = `${serverUrl}/jumppydragon`;
-document.getElementById('linkknightnday').href = `${serverUrl}/knightnday`;
-document.getElementById('linklizardrocket').href = `${serverUrl}/lizardrocket`;
-document.getElementById('linklooneyroonks').href = `${serverUrl}/looneyroonks`;
-document.getElementById('linkluxahoy').href = `${serverUrl}/luxahoy`;
-document.getElementById('linkmanic').href = `${serverUrl}/manic`;
-document.getElementById('linkmatchtime').href = `${serverUrl}/matchtime`;
-document.getElementById('linkmathgame').href = `${serverUrl}/mathgame`;
-document.getElementById('linkmixthesquare').href = `${serverUrl}/mixthesquare`;
-document.getElementById('linkmonstereater').href = `${serverUrl}/monstereater`;
-document.getElementById('linkmousejump').href = `${serverUrl}/mousejump`;
-document.getElementById('linkmypuki').href = `${serverUrl}/mypuki`;
-document.getElementById('linknest').href = `${serverUrl}/nest`;
-document.getElementById('linkninjablade').href = `${serverUrl}/jablade`;
-document.getElementById('linkninjablock').href = `${serverUrl}/ninjablock`;
-document.getElementById('linkninjakidvszb').href = `${serverUrl}/ninjakidvszb`;
-document.getElementById('linkninjarun').href = `${serverUrl}/ninjarun`;
-document.getElementById('linkninjaway').href = `${serverUrl}/ninjaway`;
-document.getElementById('linknugget_seeker').href = `${serverUrl}/nugget_seeker`;
-document.getElementById('linkojelloonline').href = `${serverUrl}/ojelloonline`;
-document.getElementById('linkpacman').href = `${serverUrl}/pacman`;
-document.getElementById('linkpancakeboss').href = `${serverUrl}/pancakeboss`;
-document.getElementById('linkpandaflash').href = `${serverUrl}/pandaflash`;
-document.getElementById('linkpebbleboy').href = `${serverUrl}/pebbleboy`;
-document.getElementById('linkpenguin').href = `${serverUrl}/penguin`;
-document.getElementById('linkperiperi').href = `${serverUrl}/periperi`;
-document.getElementById('linkpieattack').href = `${serverUrl}/pieattack`;
-document.getElementById('linkpigeon').href = `${serverUrl}/pigeon`;
-document.getElementById('linkpiggyroll').href = `${serverUrl}/piggyroll`;
-document.getElementById('linkpiratekid').href = `${serverUrl}/piratekid`;
-document.getElementById('linkpitana').href = `${serverUrl}/pitana`;
-document.getElementById('linkpopup').href = `${serverUrl}/popup`;
-document.getElementById('linkportalrunner').href = `${serverUrl}/portalrunner`;
-document.getElementById('linkpyramidjump').href = `${serverUrl}/pyramidjump`;
-document.getElementById('linkraccoonrun').href = `${serverUrl}/raccoonrun`;
-document.getElementById('linkrainbox').href = `${serverUrl}/rainbox`;
-document.getElementById('linkrapunzel').href = `${serverUrl}/rapunzel`;
-document.getElementById('linkrectangzings').href = `${serverUrl}/rectangzings`;
-document.getElementById('linkreflector').href = `${serverUrl}/reflector`;
-document.getElementById('linkrobotion').href = `${serverUrl}/robotion`;
-document.getElementById('linkrocketpop').href = `${serverUrl}/rocketpop`;
-document.getElementById('linkropeninja').href = `${serverUrl}/ropeninja`;
-document.getElementById('linkrunneryodas').href = `${serverUrl}/runneryodas`;
-document.getElementById('linkrunpixierun').href = `${serverUrl}/runpixierun`;
-document.getElementById('linksallybbq').href = `${serverUrl}/sallybbq`;
-document.getElementById('linksambogart').href = `${serverUrl}/sambogart`;
-document.getElementById('linksilverarrow').href = `${serverUrl}/silverarrow`;
-document.getElementById('linkskylands').href = `${serverUrl}/skylands`;
-document.getElementById('linkskyrace').href = `${serverUrl}/skyrace`;
-document.getElementById('linkskytte').href = `${serverUrl}/skytte`;
-document.getElementById('linkskywire').href = `${serverUrl}/skywire`;
-document.getElementById('linkslotchicken').href = `${serverUrl}/slotchicken`;
-document.getElementById('linksortbird').href = `${serverUrl}/sortbird`;
-document.getElementById('linkspacecowboy').href = `${serverUrl}/spacecowboy`;
-document.getElementById('linkspicy').href = `${serverUrl}/spicy`;
-document.getElementById('linkspringninja').href = `${serverUrl}/springninja`;
-document.getElementById('linksquarecrush').href = `${serverUrl}/squarecrush`;
-document.getElementById('linkstevenkash').href = `${serverUrl}/stevenkash`;
-document.getElementById('linkstickpanda').href = `${serverUrl}/stickpanda`;
-document.getElementById('linkstickpandaxmas').href = `${serverUrl}/stickpandaxmas`;
-document.getElementById('linksticksamurai').href = `${serverUrl}/sticksamurai`;
-document.getElementById('linkstickygoo').href = `${serverUrl}/stickygoo`;
-document.getElementById('linkstrangespace').href = `${serverUrl}/strangespace`;
-document.getElementById('linktaptapsubmarine').href = `${serverUrl}/taptapsubmarine`;
-document.getElementById('linktargetap').href = `${serverUrl}/targetap`;
-document.getElementById('linktetrisclassic').href = `${serverUrl}/tetrisclassic`;
-document.getElementById('linktitanrunner').href = `${serverUrl}/titanrunner`;
-document.getElementById('linktooncup').href = `${serverUrl}/tooncup`;
-document.getElementById('linktrailblazer').href = `${serverUrl}/trailblazer`;
-document.getElementById('linktrashndash').href = `${serverUrl}/trashndash`;
-document.getElementById('linktrollboxing').href = `${serverUrl}/trollboxing`;
-document.getElementById('linkuforun').href = `${serverUrl}/uforun`;
-document.getElementById('linkveggirabbit').href = `${serverUrl}/veggirabbit`;
-document.getElementById('linkviking').href = `${serverUrl}/viking`;
-document.getElementById('linkwoodblock').href = `${serverUrl}/woodblock`;
-document.getElementById('linkxtypesky').href = `${serverUrl}/xtypesky`;
-document.getElementById('linkzapaliens').href = `${serverUrl}/zapaliens`;
-document.getElementById('linkzcj2').href = `${serverUrl}/zcj2`;
-document.getElementById('linkzombie-dungeon').href = `${serverUrl}/zombie-dungeon`;
-document.getElementById('linkzombieinfect').href = `${serverUrl}/zombieinfect`;
-document.getElementById('linkzombienight').href = `${serverUrl}/zombienight`;
-document.getElementById('linkzombiescantjump').href = `${serverUrl}/zombiescantjump`;
-document.getElementById('linkzombieworld').href = `${serverUrl}/zombieworld`;
-document.getElementById('linkzoostuner').href = `${serverUrl}/zoostuner`;
+const gameLinks = [
+    "2048", "3dtetris", "alienattack", "balanceball", "battleday", "bdot", "birgly", "blackbats", "bloxslider", "bottomtight",
+    "bravebird", "brokenhorn", "bubblecn", "bubblefish", "burningrubber", "candyfusion", "candypig", "captainroger", "captainwar",
+    "catonfire", "cavejumper", "cboxes", "cheeselab", "chipman", "christmasballs", "circleball", "circlepong", "circletris", "cninjas",
+    "cowboyrun", "cowboyshot", "craigenstone", "creedyrabbit", "crkarmax", "cubeninja", "dangermouse", "dangerous", "darkninja",
+    "deathsoul", "donteattrash", "dotgame", "dronewars", "dropcircle", "duckwater", "elmore", "escape", "evilrobot", "evilwyrm",
+    "fastgame", "firebrigade", "fishingfrenzy", "fishshot", "flapcatcopters", "flapcatxmas", "flappydog", "flyingschool", "foofoo",
+    "foxfury", "freedomroad", "frog", "fullimmersion", "funnysoccer", "gettwelve", "goblinmachine", "gofishing", "goingnuts",
+    "greedygnomes", "greenwings", "groovyski", "grubhub", "gumballrace", "gunmach", "hanselandgretel", "herojump", "hidden",
+    "hungrybob", "hyperminer", "icecream", "isagame", "jellydoods", "jellyslice", "jomjom", "jump2048", "jumpkitty", "jumpman",
+    "jumppydog", "jumppydragon", "knightnday", "lizardrocket", "looneyroonks", "luxahoy", "manic", "matchtime", "mathgame",
+    "mixthesquare", "monstereater", "mousejump", "mypuki", "nest", "ninjablade", "ninjablock", "ninjakidvszb", "ninjarun",
+    "ninjaway", "nugget_seeker", "ojelloonline", "pacman", "pancakeboss", "pandaflash", "pebbleboy", "penguin", "periperi",
+    "pieattack", "pigeon", "piggyroll", "piratekid", "pitana", "popup", "portalrunner", "pyramidjump", "raccoonrun", "rainbox",
+    "rapunzel", "rectangzings", "reflector", "robotion", "rocketpop", "ropeninja", "runneryodas", "runpixierun", "sallybbq",
+    "sambogart", "silverarrow", "skylands", "skyrace", "skytte", "skywire", "slotchicken", "sortbird", "spacecowboy", "spicy",
+     "springninja", "squarecrush", "stevenkash", "stickpanda", "stickpandaxmas", "sticksamurai", "stickygoo", "strangespace",
+    "taptapsubmarine", "targetap", "tetrisclassic", "titanrunner", "tooncup", "trailblazer", "trashndash", "trollboxing", "uforun",
+    "veggirabbit", "viking", "woodblock", "xtypesky", "zapaliens", "zcj2", "zombie-dungeon", "zombieinfect", "zombienight",
+    "zombiescantjump", "zombieworld", "zoostuner"];
+
+gameLinks.forEach(link => {
+    document.getElementById(`link${link}`).href = `${serverUrl}/${link}`;
+});
+

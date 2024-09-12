@@ -4,7 +4,6 @@ document.getElementById('link2048').href = `${serverUrl}/2048`;
 document.getElementById('link3dtetris').href = `${serverUrl}/3dtetris`;
 document.getElementById('linkAlienAttack').href = `${serverUrl}/alienattack`;
 document.getElementById('linkBalanceBall').href = `${serverUrl}/balanceball`;
-document.getElementById('linkBallBounce').href = `${serverUrl}/ballbounce`;
 document.getElementById('linkBattleday').href = `${serverUrl}/battleday`;
 document.getElementById('linkBdot').href = `${serverUrl}/bdot`;
 document.getElementById('linkbirgly').href = `${serverUrl}/birgly`;
